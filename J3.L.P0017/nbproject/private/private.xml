@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Source%20Code%20SE%201/Lab%20Web/J3.L.P0017/src/java/user/server/AddUserPromotionServlet.java</file>
+            <file>file:/D:/Source%20Code%20SE%201/Lab%20Web/J3.L.P0017/src/java/user/server/ViewInfoServlet.java</file>
+            <file>file:/D:/Source%20Code%20SE%201/Lab%20Web/J3.L.P0017/web/user.jsp</file>
+            <file>file:/D:/Source%20Code%20SE%201/Lab%20Web/J3.L.P0017/web/admin.jsp</file>
+            <file>file:/D:/Source%20Code%20SE%201/Lab%20Web/J3.L.P0017/src/java/user/server/ViewPromotionServlet.java</file>
+            <file>file:/D:/Source%20Code%20SE%201/Lab%20Web/J3.L.P0017/src/java/user/driver/listPromotionDAO.java</file>
+            <file>file:/D:/Source%20Code%20SE%201/Lab%20Web/J3.L.P0017/src/java/user/server/DeleteServlet.java</file>
+            <file>file:/D:/Source%20Code%20SE%201/Lab%20Web/J3.L.P0017/web/createAccount.jsp</file>
+            <file>file:/D:/Source%20Code%20SE%201/Lab%20Web/J3.L.P0017/web/viewHistoryPromotion.jsp</file>
+            <file>file:/D:/Source%20Code%20SE%201/Lab%20Web/J3.L.P0017/web/WEB-INF/web.xml</file>
+            <file>file:/D:/Source%20Code%20SE%201/Lab%20Web/J3.L.P0017/src/java/user/driver/listPromotionDTO.java</file>
+            <file>file:/D:/Source%20Code%20SE%201/Lab%20Web/J3.L.P0017/src/java/user/driver/promotionDTO.java</file>
+            <file>file:/D:/Source%20Code%20SE%201/Lab%20Web/J3.L.P0017/web/viewPromotion.jsp</file>
+            <file>file:/D:/Source%20Code%20SE%201/Lab%20Web/J3.L.P0017/src/java/user/server/SavePromotionServlet.java</file>
+            <file>file:/D:/Source%20Code%20SE%201/Lab%20Web/J3.L.P0017/web/update.jsp</file>
+            <file>file:/D:/Source%20Code%20SE%201/Lab%20Web/J3.L.P0017/src/java/user/server/LogoutServlet.java</file>
+            <file>file:/D:/Source%20Code%20SE%201/Lab%20Web/J3.L.P0017/src/java/user/connect/connectDB.java</file>
+            <file>file:/D:/Source%20Code%20SE%201/Lab%20Web/J3.L.P0017/src/java/user/server/DeletePromotionServlet.java</file>
+            <file>file:/D:/Source%20Code%20SE%201/Lab%20Web/J3.L.P0017/web/login.jsp</file>
+            <file>file:/D:/Source%20Code%20SE%201/Lab%20Web/J3.L.P0017/web/error.jsp</file>
+            <file>file:/D:/Source%20Code%20SE%201/Lab%20Web/J3.L.P0017/web/viewUserPromotion.jsp</file>
+            <file>file:/D:/Source%20Code%20SE%201/Lab%20Web/J3.L.P0017/web/viewListPromotion.jsp</file>
+            <file>file:/D:/Source%20Code%20SE%201/Lab%20Web/J3.L.P0017/src/java/user/server/UpdateServlet.java</file>
+            <file>file:/D:/Source%20Code%20SE%201/Lab%20Web/J3.L.P0017/src/java/user/server/CreateAccountServlet.java</file>
+            <file>file:/D:/Source%20Code%20SE%201/Lab%20Web/J3.L.P0017/src/java/user/driver/userDTO.java</file>
+            <file>file:/D:/Source%20Code%20SE%201/Lab%20Web/J3.L.P0017/web/index.html</file>
+            <file>file:/D:/Source%20Code%20SE%201/Lab%20Web/J3.L.P0017/src/java/user/util/util.java</file>
+            <file>file:/D:/Source%20Code%20SE%201/Lab%20Web/J3.L.P0017/src/java/user/driver/userDAO.java</file>
+            <file>file:/D:/Source%20Code%20SE%201/Lab%20Web/J3.L.P0017/src/java/user/server/ViewHistoryPromotionServlet.java</file>
+            <file>file:/D:/Source%20Code%20SE%201/Lab%20Web/J3.L.P0017/src/java/user/driver/promotionDAO.java</file>
+            <file>file:/D:/Source%20Code%20SE%201/Lab%20Web/J3.L.P0017/src/java/user/server/ViewPromotionInfoServlet.java</file>
+            <file>file:/D:/Source%20Code%20SE%201/Lab%20Web/J3.L.P0017/src/java/user/server/UpdatePromotionInfoServlet.java</file>
+            <file>file:/D:/Source%20Code%20SE%201/Lab%20Web/J3.L.P0017/src/java/user/server/LoginServlet.java</file>
+            <file>file:/D:/Source%20Code%20SE%201/Lab%20Web/J3.L.P0017/src/java/user/server/ViewUserPromotionServlet.java</file>
+            <file>file:/D:/Source%20Code%20SE%201/Lab%20Web/J3.L.P0017/src/java/user/server/FilterDispatcher.java</file>
+            <file>file:/D:/Source%20Code%20SE%201/Lab%20Web/J3.L.P0017/src/java/user/server/SearchServlet.java</file>
+            <file>file:/D:/Source%20Code%20SE%201/Lab%20Web/J3.L.P0017/src/java/user/util/encrypted.java</file>
+        </group>
+    </open-files>
+</project-private>
